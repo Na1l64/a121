@@ -1,1 +1,2 @@
-asddfsgfgsdg
+list23 = [4545,545,54,5,8,56,57]
+print(list23)
